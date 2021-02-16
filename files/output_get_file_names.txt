@@ -1,10 +1,10 @@
-.ipynb_checkpoints
 csvfile.csv
 email.txt
-fruits.txt
 output_csv.csv
 output_get_all_file_names.txt
 output_get_file_names.txt
 output_headlines.txt
 README_USE.md
 stringsfile.txt
+subfolder
+vegetables_fruits_list.txt

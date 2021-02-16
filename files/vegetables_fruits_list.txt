@@ -1,0 +1,6 @@
+apple
+banana
+cherry
+cucumber
+bell pepper
+green beans

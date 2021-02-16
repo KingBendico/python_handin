@@ -23,7 +23,7 @@ def get_all_file_names(path, output_file):
 def print_line_one(file_names):
     for file in file_names:
         with open(file,'r') as file_object:
-            print("\nFirst line in " + "\""+file + "\":" + "\n" + file_object.readlines()[0])
+            print("\nFirst line in " + "\""+file + "\":\n" + "\n" + file_object.readlines()[0])
     
 def print_emails(file_names):
     for file in file_names:

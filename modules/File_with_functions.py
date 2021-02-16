@@ -6,18 +6,22 @@ def print_file_content(file):
     with open(file,'r') as file_object:
         fileText = file_object.read()
         print(fileText)
-
-def write_list_to_file(output_file, lst):
-    with open(output_file, 'w') as file_object:
-        for el in lst:
-            file_object.write("".join(el) + "\n")      
         
-def write_lines_to_file(output_file, *lst):
-    print(lst)
-    with open(output_file, "w") as o:
+def write_list_to_file(output_file, lst):
+      with open(output_file, 'w') as file_object:
         for el in lst:
-            for ele in el:
-                o.write(ele + "\n")           
+            file_object.write("\n".join(el) + "\n")    
+                
+def write_lines_to_file(output_file, *strings):
+    # print(lst)
+    with open(output_file, "w") as o:
+        for el in strings:
+                o.write(el + "\n")
+                
+def write_csv(input_csv_file, output_csv_file):
+      with open(output_csv_file, 'w') as file_object:
+        for el in input_csv_file:
+            file_object.write(",".join(el) + "\n")                  
         
 def read_csv(input_file):
     with open(input_file, "r") as f:
@@ -35,10 +39,11 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if args.output_file:
-        output_file = args.output_file
-        lst = read_csv(args.input_file)
-        write_list_to_file(output_file,lst)
-        
+        output_csv_file = args.output_file
+        input_csv_file = read_csv(args.input_file)
+        write_csv(input_csv_file, output_csv_file)
+
+   
     else:
         print_file_content(args.input_file)
         
