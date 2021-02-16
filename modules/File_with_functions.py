@@ -35,7 +35,7 @@ def read_csv(input_file):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='A program that writes and reads from a csv file')
     parser.add_argument('-i', dest="input_file", default=True, help='Name of the input file. Must be in the same directory as this file.')
-    parser.add_argument('-o', dest="output_file", default=None, help='name of the output file.')
+    parser.add_argument('-o', dest="output_file", default=None, help='Name of the output file.')
     args = parser.parse_args()
 
     if args.output_file:
