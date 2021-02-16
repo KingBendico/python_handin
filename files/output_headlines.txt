@@ -1,0 +1,8 @@
+# How to use this repo
+### Compose
+### Flask
+### Development with VSCode inside the container context
+### Mysql server
+### Flask server
+### clean up
+### If not using compose:
