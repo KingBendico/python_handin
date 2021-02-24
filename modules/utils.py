@@ -44,4 +44,3 @@ def write_headlines(md_files, out):
                         for el in new_list:
                             o.write(el)         
                 
-                

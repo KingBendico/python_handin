@@ -9,7 +9,10 @@
 1. All exercises have been completed.
 2. Benjamin C.
 
+## Python Hand-in Week 3
 
+1. All mandatory exercises have been completed.
+2. Benjamin C.
 
 
 
