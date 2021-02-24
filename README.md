@@ -4,7 +4,7 @@
 
 1. *Progression*
 2. *Author/Student*
-3. Notes/comments
+3. *Notes/comments*
 
 
 
