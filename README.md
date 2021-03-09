@@ -25,3 +25,15 @@
 1. All mandatory exercises have been completed.
 2. Benjamin C.
 3. An example of output is desirable.
+
+## Python Hand-in Week 4
+
+1. All mandatory exercises have been completed.
+2. Benjamin C.
+3. None
+
+## Python Hand-in Week 5
+
+1. All mandatory exercises have been completed.
+2. Benjamin C.
+3. None
