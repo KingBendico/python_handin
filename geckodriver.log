@@ -1,0 +1,34 @@
+1615884772326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDBSwKv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615884774164	Marionette	INFO	Listening on port 41167
+1615884774251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615884774263	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.bilbasen.dk/sharedresources/vendor/vendor.bundle.a9754555a31cbb8222a6.js, line 46: Invariant Violation: Minified React error #200; visit https://reactjs.org/docs/error-decoder.html?invariant=200 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WX7IimsAo_RF7a_KStWqUkPmmU8kKH6_0S6PX737N0g.js line 1 > eval line 6807 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WX7IimsAo_RF7a_KStWqUkPmmU8kKH6_0S6PX737N0g.js line 1 > eval line 6807 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WX7IimsAo_RF7a_KStWqUkPmmU8kKH6_0S6PX737N0g.js line 1 > eval line 7038 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WX7IimsAo_RF7a_KStWqUkPmmU8kKH6_0S6PX737N0g.js line 1 > eval line 7038 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615884785861	Marionette	INFO	Stopped listening on port 41167
+1615884802314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIWH853"
+Unable to init server: Broadway display type not supported: unix
+Error: cannot open display: unix
+1615884832610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFrdcEJ"
+Unable to init server: Broadway display type not supported: unix
+Error: cannot open display: unix
+1615884895845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8TAYeV"
+Unable to init server: Broadway display type not supported: unix
+Error: cannot open display: unix
+1615884940626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev6Kej8"
+Unable to init server: Broadway display type not supported: unix
+Error: cannot open display: unix
+1615884981028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq4UgiY"
+Unable to init server: Broadway display type not supported: unix
+Error: cannot open display: unix
