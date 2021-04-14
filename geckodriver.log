@@ -1414,3 +1414,9 @@ Home directory not accessible: Permission denied
 JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 307 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 307 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 877 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 877 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 5330 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 5330 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
