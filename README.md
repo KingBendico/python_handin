@@ -37,3 +37,44 @@
 1. All mandatory exercises have been completed.
 2. Benjamin C.
 3. None
+
+## Python Hand-in Week 6
+
+1. All mandatory exercises have been completed.
+2. Benjamin C.
+3. None
+
+## Python Hand-in Week 7
+
+1. All mandatory exercises have been completed.
+2. Benjamin C.
+3. None
+
+## Python Hand-in Week 8
+
+1. All mandatory exercises have been completed.
+2. Benjamin C.
+3. None
+## Python Hand-in Week 9
+
+1. All mandatory exercises have been completed.
+2. Benjamin C.
+3. None
+
+## Python Hand-in Week 10
+
+1. All mandatory exercises have been completed.
+2. Benjamin C.
+3. None
+
+## Python Hand-in Week 11
+
+1. All mandatory exercises have been completed.
+2. Benjamin C.
+3. None
+
+## Python Hand-in Week 12
+
+1. All mandatory exercises have been completed.
+2. Benjamin C.
+3. None
